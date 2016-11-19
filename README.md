@@ -1,6 +1,11 @@
-# ReadingBook
+# 读书
 
-+ *AngularJS 权威指南* **`done`**
-+ *Javascript 语言精粹* `continue`
-+ *精通CSS 高级Web标准解决方案* `begin`
-+ *CSS 权威指南* `begin`
+### 我读过的书籍
++ [x] **AngularJS 权威指南** 读书进度：**100%**
+
+
+### 我准备读的书
++ [x] **《Javascript 语言精粹》** 读书进度：**0%**
++ [x] **《精通CSS 高级Web标准解决方案》** 读书进度：**0%**
++ [x] **《CSS 权威指南》** 读书进度：**0%**
+
